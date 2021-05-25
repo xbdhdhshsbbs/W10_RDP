@@ -1,7 +1,7 @@
 # RDP_COFFIN
-
+💖IF YOU CAN'T SEE COFFIN-RDP then join telegram channel for another link💖
 > **2CPU & 7GB RAM**
-
+by https://t.me/NocturnalGaming
 > ## [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/c9ffin/RDP_COFFIN/blob/main/.github/workflows/coffin.yml)
 
 ## You are not allowed to modify the project.
@@ -13,7 +13,7 @@
 * Press Add secret
 * Go to Action> RDP_COFFIN> Run workflow
 * Reload the page and press RDP_COFFIN> build
-* Press the down arrow on Connect To Your RPD to get IP, User, Password.
+* Press the down arrow on Connect To Your RDP, User: Administrator Pass: @#Coffin123456
 > If you have any questions, contact me in Discord: **vv#0999**
 ## Original Repositor :
 > https://github.com/c9ffin/rdp
