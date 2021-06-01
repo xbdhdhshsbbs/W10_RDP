@@ -2,7 +2,7 @@
 
 > **2CPU & 7GB RAM**
 
-JOIN OUR TELEGRAM CHANNEL FOR HELP :- https://t.me/NocturnalRaiders
+JOIN OUR TELEGRAM CHANNEL FOR HELP :- https://t.me/Nocturnal_Gaming
 > ## [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/c9ffin/RDP_COFFIN/blob/main/.github/workflows/coffin.yml)
 
 ## You are not allowed to modify the project.
