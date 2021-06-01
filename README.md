@@ -4,7 +4,7 @@
 
 > ## [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/c9ffin/RDP_COFFIN/blob/main/.github/workflows/coffin.yml)
 
-## You are not allowed to modify the project.
+## In the obligation to modify the project to fix a problem.
 
 * Click Fork in the right corner of the screen to save it to your Github.
 * Visit https://dashboard.ngrok.com to get **NGROK_AUTH_TOKEN**
@@ -15,10 +15,6 @@
 * Go to Action> RDP_COFFIN> Run workflow
 * Reload the page and press RDP_COFFIN> build
 * Press the down arrow on Connect To Your RPD to get IP, User, Password.
-
-## Youtube video:
-
-[![How to Get a FREE Windows RDP/VPS (2Ghz & 7GB ram - 2021)](https://img.youtube.com/vi/u2_7qjYe3KE/0.jpg)](https://youtu.be/u2_7qjYe3KE)
 
 ## Original Repositor :
 > https://github.com/c9ffin/rdp
