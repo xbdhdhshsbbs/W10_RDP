@@ -1,7 +1,7 @@
 # RDP_COFFIN
 
 > **2CPU & 7GB RAM**
-
+THIS REPOSITORY 🙏 RIP. TIME WASTERS CAN TRY THIS. FOR NEW JOIN OUR TELEGRAM CHANNEL.
 JOIN OUR TELEGRAM CHANNEL FOR HELP :- https://t.me/Nocturnal_Gaming
 > ## [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/c9ffin/RDP_COFFIN/blob/main/.github/workflows/coffin.yml)
 
