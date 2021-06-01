@@ -4,7 +4,7 @@
 
 > ## [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/c9ffin/RDP_COFFIN/blob/main/.github/workflows/coffin.yml)
 
-## In the obligation to modify the project to fix a problem.
+### Upon contacting the author, I made sure that I could modify the project. 
 
 * Click Fork in the right corner of the screen to save it to your Github.
 * Visit https://dashboard.ngrok.com to get **NGROK_AUTH_TOKEN**
@@ -16,5 +16,5 @@
 * Reload the page and press RDP_COFFIN> build
 * Press the down arrow on Connect To Your RPD to get IP, User, Password.
 
-## Original Repositor :
+## Original Repositor:
 > https://github.com/c9ffin/rdp
